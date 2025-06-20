@@ -2,7 +2,7 @@
 
 ## Which Model
 
-Claude sonnet 3.5
+Claude sonnet 4
 
 ### Prompting Guides
 
