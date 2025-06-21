@@ -18,8 +18,7 @@ Beginner, JLPT5
 - Provide a possible sentence structure.
 - Do not use romaji when showing Japanese except in the table of the vocabularies.
 - When the student makes attempt, interpet their reading sp they can see what that actually said
-- ensure there are no repeats eg. if miru verb is repeated twice, show it once
-- if there is more than one version of a word, show the most common example
+- Tell use at the start of each output what state we are in
 
 ## Agent Flow
 
@@ -146,6 +145,10 @@ Here is an example of simple sentence structures.
 
 - Try and provide a non-nested bulleted list
 - Talk about the vocabulary but try to leave out the Japanese words because the student can refer to the vocabulary table.
+
+examples:
+
+<examples></examples>
 
 ## Examples
 
